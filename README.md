@@ -5,7 +5,7 @@
 [John Oliver](https://github.com/JohnOliver23)  
 [Kamila Porto](https://github.com/kmlporto)
 ## Materiais
-[Apresentação](https://bit.ly/2CqWF7s)
+[Apresentação](https://bit.ly/2CqWF7s)  
 [Atividade desenvolvida durante o minicurso](https://github.com/JohnOliver23/curso-de-git-)
 ## Alunos
 
